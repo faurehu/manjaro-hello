@@ -33,7 +33,7 @@ msgid ""
 msgstr ""
 "¡Gracias por unirte a nuestra comunidad!\n"
 "\n"
-"Nosotros, los Desarrolladores de Manjaro, esperamos que disfrutes usando Manjaro tanto como nosotros disfrutamos construyendolo. Los links de abajo te ayudarán a empezar con tu nuevo sistema opeartivo. Disfruta de la experiencia, y no dudes en enviarnos tus comentarios."
+"Nosotros, los Desarrolladores de Manjaro, esperamos que disfrutes usando Manjaro tanto como nosotros disfrutamos construyendolo. Los links de abajo te ayudarán a empezar con tu nuevo sistema operativo. Disfruta de la experiencia, y no dudes en enviarnos tus comentarios."
 
 #: ui/manjaro-hello.glade:89
 msgid "DOCUMENTATION"
